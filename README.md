@@ -1,4 +1,4 @@
-# Online Shopping Classification
+# Capstone Project 1 - Online Shopping Classification
 
 ### Location of Code for Parts of the Project
 
